@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lokesh28091
+- 👋 Hi, I’m @lokesh
 - 👀 I’m interested in soft developer
 - 🌱 I’m currently learning core java
 - 💞️ I’m looking to collaborate on 
