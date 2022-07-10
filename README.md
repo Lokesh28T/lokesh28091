@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning core java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me the.lokesh on instagram
+instagram :https://www.instagram.com/the.lokesh/
